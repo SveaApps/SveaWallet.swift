@@ -14,4 +14,4 @@ Install the Svea Wallet iOS SDK using [Swift Package Manager](https://developer.
 
 ## Documentation
 
-Please refer to the official [documentation](http://closestage.svea.com/wallet-sdk-docs) for more info.
+Please refer to the official [documentation](https://wallet.svea.com/developer-portal/client/ios/getting-started/) for more info.
