@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SveaWallet", 
-            url: "https://maven2.svea.com/releases/com/svea/ios/SveaWallet/SveaWallet-3.4.1.xcframework.zip", 
-            checksum: "49776f8f728c2bb8b3d6d8c789fa6bfc61cae53d6daadb44c8f743f27e15afda")
+            url: "https://maven2.svea.com/releases/com/svea/ios/SveaWallet/SveaWallet-3.5.0.xcframework.zip", 
+            checksum: "c40c74b501d7522a9d10678b4970bd0afc2bc4dddce8f6eed265f21a08848851")
     ]
 )
